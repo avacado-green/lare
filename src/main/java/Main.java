@@ -6,7 +6,7 @@ public class Main {
         FileOperations fileOps = new FileOperationsImpl();
         String filename = "data.ser";
 
-        // Пример объекта для записи
+        
         Person person = new Person("John", 30);
 
         try {
